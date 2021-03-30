@@ -1,2 +1,2 @@
 # infinite-library-babel
-Library for principals at Infinite Babel.
+Library for principal investors at Infinite Babel.
