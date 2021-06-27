@@ -1,2 +1,2 @@
 # Principals Library
-A virtual library for principal investors affiliated with Project Daybringer. 
+A virtual library for anyone working on Project Daybringer.
