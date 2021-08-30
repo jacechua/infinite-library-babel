@@ -1,2 +1,2 @@
 # Startups
-Articles read on how to start a startup and build products.
+Articles read on how to start a startup and build products
